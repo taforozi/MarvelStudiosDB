@@ -1,3 +1,5 @@
+# This view contains all the producers and directors of all Marvel Movies in the database
+
 SELECT movies_have_directors.movieName AS Movie, producers.name AS Producers, directors.name AS Directors
 FROM producers JOIN movies_have_producers ON movies_have_producers.producerID = producers.producerID
     JOIN movies_have_directors ON movies_have_directors.movieName = movies_have_producers.movieName
