@@ -9,7 +9,13 @@ Me and my team, as Marvel enthusiasts, decided to develop a database that meets 
   <img width="390" height="200" src="https://user-images.githubusercontent.com/81076999/113105569-682c6400-920a-11eb-93bf-21a7409d3e7a.png">
 </p>
 
-# Queries
+## Queries 
+The examples that we have implemented can be found in the [Queries](Queries) folder with a description about what each of them serves.
+
+## Views
+The examples that we have implemented can be found in the [Views](Views) folder with a description about what each of them serves.
+
+
 
 ###### _The image above can be found [here](https://commons.wikimedia.org/wiki/File:Marvel_Logo.svg)._
 
