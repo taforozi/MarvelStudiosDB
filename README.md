@@ -6,7 +6,7 @@ For the database implementation we use MySQL Workbench 6.3 CE and MariaDB 5.5 se
 Me and my team, as Marvel enthusiasts, decided to develop a database that meets the **Marvel Cinematic Universe's** needs.
 
 <p align="center">
-  <img width="390" height="390" src="https://user-images.githubusercontent.com/81076999/113105569-682c6400-920a-11eb-93bf-21a7409d3e7a.png">
+  <img width="460" height="390" src="https://user-images.githubusercontent.com/81076999/113105569-682c6400-920a-11eb-93bf-21a7409d3e7a.png">
 </p>
 
 ###### _The image above can be found [here](https://commons.wikimedia.org/wiki/File:Marvel_Logo.svg)._
