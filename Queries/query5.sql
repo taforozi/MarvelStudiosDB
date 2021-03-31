@@ -1,3 +1,7 @@
+# We assume that a Marvel fan wants to know the locations and planets
+# where battle has taken place but not death
+# Both battle and death are considered as events
+
 DROP TEMPORARY TABLE IF EXISTS A;
 DROP TEMPORARY TABLE IF EXISTS battle;
 DROP TEMPORARY TABLE IF EXISTS death;
