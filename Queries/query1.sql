@@ -1,3 +1,6 @@
+# Suppose a Marvel fan wants to see the name of the characters, who have been embodied 
+# by different actors, as well as the name of these actors
+
 DROP TEMPORARY TABLE IF EXISTS C;
 CREATE TEMPORARY TABLE C AS SELECT actors.name AS actor1 , actors.charName AS Characters ,  actors.actorID
 FROM actors ;
