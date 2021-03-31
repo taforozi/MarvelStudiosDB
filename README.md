@@ -15,6 +15,15 @@ The examples that we have implemented can be found in the [Queries](Queries) fol
 ## Views
 The examples that we have implemented can be found in the [Views](Views) folder with a description about what each of them serves.
 
+## MarvelStudiosDB.mwb
+This file constitutes the database model in MySQL Workbench format, while it also exists as a png file extracted from MySQL Workbench.
+
+## MarvelStudiosDB.sql
+SQL script that contains the dump for creating the database (tables, constraints, inserted data, views).
+
+## users.sql
+SQL script for creating the users of the database and their rights.
+
 
 
 ###### _The image above can be found [here](https://commons.wikimedia.org/wiki/File:Marvel_Logo.svg)._
