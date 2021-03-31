@@ -1,3 +1,6 @@
+# Suppose a Marvel fan wants to see the name of the movie
+# with the longest duration
+
 SELECT movieName AS Movie, duration
 FROM movies
 WHERE duration IN
