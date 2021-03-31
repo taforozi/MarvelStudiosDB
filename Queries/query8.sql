@@ -1,3 +1,8 @@
+# Suppose a user is interested in finding out the ID and the name of the producer
+# who has appeared in all Marvel Studios Movies
+
+# Spoiler: Kevin Feige
+
 DROP TEMPORARY TABLE IF EXISTS C;
 CREATE TEMPORARY TABLE C AS
 SELECT DISTINCT producerID
@@ -11,10 +16,10 @@ SELECT DISTINCT producerID
                  WHERE (P1.producerID = P2.producerID)
                    AND (P2.movieName = movies_have_producers.movieName)));
 
-#Producer ID
+# Producer ID
 SELECT *
 FROM C;
 
-#Producer Name
+# Producer Name
 SELECT name AS 'Producer Name'
 FROM producers JOIN C ON producers.producerID = C.producerID;
