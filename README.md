@@ -25,7 +25,7 @@ SQL script that contains the dump for creating the database (tables, constraints
 SQL script for creating the users of the database and their rights.
 
 ##  Team members
-_Find us on LinkedIn_
+Find us on LinkedIn:
 
 [Aforozi Thomais](https://www.linkedin.com/in/thomais-aforozi-64076b201/)\
 [Giannokosta Georgia](https://www.linkedin.com/in/geogiannokosta/)\
