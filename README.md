@@ -24,6 +24,15 @@ SQL script that contains the dump for creating the database (tables, constraints
 ## users.sql
 SQL script for creating the users of the database and their rights.
 
+##  Team members
+_Find us on LinkedIn_
+
+[Aforozi Thomais](https://www.linkedin.com/in/thomais-aforozi-64076b201/)\
+[Giannokosta Georgia](https://www.linkedin.com/in/geogiannokosta/)\
+[Iatropoulou Zafeiria](https://www.linkedin.com/in/zafeiria-iatropoulou-78270619a/)
+
+## Contact
+If there are any questions, feel free to [contact me](mailto:thomi199822@gmail.com?subject=[GitHub]%20Source%20Han%20Sans). 
 
 
 ###### _The image above can be found [here](https://commons.wikimedia.org/wiki/File:Marvel_Logo.svg)._
